@@ -1,0 +1,6 @@
+{
+    "require": {
+        "smalot/pdfparser": "*",
+        "shuchkin/simplexlsx": "^0.8.21"
+    }
+}
